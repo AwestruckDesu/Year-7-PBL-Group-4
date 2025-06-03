@@ -352,7 +352,7 @@ body {
   }
   @media screen and (max-width:800px) {
     .topnav a {
-      padding: 5vh 4.5vw;
+      padding: 4vh 4.5vw;
     }
   }
   @media screen and (max-width: 500px) {
