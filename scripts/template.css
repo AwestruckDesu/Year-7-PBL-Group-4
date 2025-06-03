@@ -344,7 +344,7 @@ body {
   }
   @media screen and (max-width:1024px) {
     .topnav a {
-      padding:3vh 4.5vw;
+      padding:3.8vh 4.5vw;
     }
     .topnav {
       margin-top: -10px;
@@ -352,7 +352,7 @@ body {
   }
   @media screen and (max-width:800px) {
     .topnav a {
-      padding: 6vh 4.5vw;
+      padding: 5vh 4.5vw;
     }
   }
   @media screen and (max-width: 500px) {
